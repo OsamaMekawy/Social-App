@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "28532982317",
+    "project_id": "soiial",
+    "storage_bucket": "soiial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28532982317:android:73fad7aee9e2f7c7d52ea4",
+        "android_client_info": {
+          "package_name": "com.example.soiial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28532982317-cnmrfmrcgmjntu9esntuvfeqk7d48f2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.soiial",
+            "certificate_hash": "5de9bd9912e5e57b7f58099bb3fa3fc34981dec3"
+          }
+        },
+        {
+          "client_id": "28532982317-ib5sqmpdu90a8kla77s2d8bv7u9mu0s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQjUJNttWWpqiqKWz8csK30l9GAdkPeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28532982317-ib5sqmpdu90a8kla77s2d8bv7u9mu0s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
